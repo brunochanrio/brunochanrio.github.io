@@ -1,0 +1,45 @@
+remote_theme: vsoch/mkdocs-jekyll@v0.0.12
+plugins:
+- jekyll-remote-theme
+
+title: Bruno-chanrio Main Website
+
+
+
+baseurl: "/"
+color: "#1DE9B6"
+accentColor: pink
+themeColor: pink
+fixedNav: 'false' # true or false
+
+github_user: "brunochanrio"
+
+permalink: /:year/:title/
+markdown: kramdown
+exclude: [_site, CHANGELOG.md, LICENSE, vendor]
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path
+
+# Defaults
+defaults:
+  - scope:
+      path: "_docs"
+      type: "docs"
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
