@@ -1,8 +1,9 @@
-remote_theme: vsoch/mkdocs-jekyll@v0.0.12
+remote_theme: brunochanrio/mkdocs-jekyll@1.2.1
 plugins:
 - jekyll-remote-theme
 
 title: Bruno-chanrio Main Website
+author: Bruno-chanrio
 
 
 
@@ -13,6 +14,9 @@ themeColor: pink
 fixedNav: 'false' # true or false
 
 github_user: "brunochanrio"
+
+instagram: brunochanrio
+threads: "@brunochanrio"
 
 permalink: /:year/:title/
 markdown: kramdown
