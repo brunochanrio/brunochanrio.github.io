@@ -16,9 +16,6 @@ fixedNav: 'false' # true or false
 
 github_user: "brunochanrio"
 
-instagram: brunochanrio
-threads: "@brunochanrio"
-
 permalink: /:year/:title/
 markdown: kramdown
 exclude: [_site, CHANGELOG.md, LICENSE, vendor]
