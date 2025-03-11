@@ -1,7 +1,7 @@
 # Bruno-chanrio Main Website
 Welcome to the Bruno-chanrio Main Website
 
-<img alt='Bruno-chanrio' width='300' src='https://brunochanrio.github.io/Cff6b53b589834a42ca86a6e85250f0a9 (2) (1).png'/>
+<img alt='Bruno-chanrio' width='700' src='https://brunochanrio.github.io/Bruno-chanrio_FullLogo.png'/>
 
 # Projects
 Here are the projects from Bruno-chanrio
