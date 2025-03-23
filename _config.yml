@@ -1,10 +1,11 @@
-remote_theme: brunochanrio/material-jekyll-chanrio@2.1
+remote_theme: brunochanrio/material-jekyll-chanrio@2025.03.23
 plugins:
 - jekyll-remote-theme
 
 title: Bruno-chanrio Main Website
 author: Bruno-chanrio
 logo: "Bruno-chanrio_TitleBarLogo_Colorful_Dark.png"
+mobilelogo: "Bruno-chanrio_Icon.png"
 
 
 
