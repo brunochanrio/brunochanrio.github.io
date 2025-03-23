@@ -9,8 +9,8 @@ logo: "Bruno-chanrio_TitleBarLogo_Colorful_Dark.png"
 
 
 baseurl: "/"
-color: "#1DE9B6"
-accentColor: pink
+color: "#d70082"
+accentColor: teal
 themeColor: pink
 fixedNav: 'false' # true or false
 
