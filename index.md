@@ -11,4 +11,4 @@ Here are the projects from Bruno-chanrio
 A fast video player and IPTV client for Android and TV
 
 
-<a href="https://brunochanrio.github.io/DangoPlayer/"><img alt='View Screenshots' width='250' src='https://brunochanrio.github.io/Bruno-chanrio_VisitProjectWebsite_Button.png'/></a>
+<a href="https://brunochanrio.github.io/DangoPlayer/"><img alt='Visit project website' width='250' src='https://brunochanrio.github.io/Bruno-chanrio_VisitProjectWebsite_Button.png'/></a>
