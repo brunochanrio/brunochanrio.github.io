@@ -10,8 +10,8 @@ mobilelogo: "Bruno-chanrio_Icon.png"
 
 
 baseurl: "/"
-color: "#d70082"
-accentColor: teal
+color: "##FF6ABF"
+accentColor: pink
 themeColor: pink
 fixedNav: 'true' # true or false
 
