@@ -1,0 +1,5 @@
+- title: "Projects"
+  url: "projects"
+  children:
+    - title: DangoPlayer
+      url: "DangoPlayer"
